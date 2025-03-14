@@ -47,7 +47,9 @@ html, body {
 }
 
 .information a {
-  text-decoration: inherit;
+  text-decoration: underline !important;
+  color: blue !important;
+  display: inline-block;
 }
 
 .visitor {
@@ -57,5 +59,6 @@ html, body {
 a {
   text-decoration: underline !important;
   color: blue !important;
+  display: inline-block;
 }
 
