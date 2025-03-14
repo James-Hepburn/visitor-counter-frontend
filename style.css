@@ -48,13 +48,10 @@ html, body {
   margin-left: 20px;
 }
 
-.information a {
-  text-decoration: underline !important;
-  color: blue !important;
-  display: inline-block !important;
-}
-
-a[href^="http"] {
+.info {
+  white-space: nowrap; 
+  text-align: right;
+  min-width: 120px;
   color: blue !important;
   text-decoration: underline !important;
   display: inline-block !important;
