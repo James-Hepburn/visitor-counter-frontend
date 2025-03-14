@@ -53,3 +53,9 @@ html, body {
 .visitor {
   margin-left: 20px;
 }
+
+a {
+  text-decoration: underline !important;
+  color: blue !important;
+}
+
