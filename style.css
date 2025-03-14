@@ -42,7 +42,12 @@ html, body {
   white-space: nowrap; 
   text-align: right;
   min-width: 120px; 
+  color: blue;
   text-decoration: underline; 
+}
+
+.information a {
+  text-decoration: underline;
   color: blue;
 }
 
