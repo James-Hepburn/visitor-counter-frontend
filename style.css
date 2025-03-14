@@ -42,12 +42,12 @@ html, body {
   white-space: nowrap; 
   text-align: right;
   min-width: 120px; 
+  text-decoration: underline;
   color: blue;
 }
 
 .information a {
-  text-decoration: underline;
-  color: blue;
+  text-decoration: inherit;
 }
 
 .visitor {
